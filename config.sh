@@ -11,7 +11,7 @@ export DT_LINK="https://github.com/twrpdtgen/android_device_motorola_rhodep/tree
 export DT_BRANCH="twrp" # device tree branch
 export VENDOR="motorola" # device manufacturer or vendor
 export TARGET="bootimage" # build method: recoveryimage, bootimage, vendorboot
-export TYPE="omni" # recovery type: omni, twrp, something else
+export TYPE="omni_rhodep" # recovery type: omni, twrp, something else
 
 # you dont need to edit these
 export SYM="_"
